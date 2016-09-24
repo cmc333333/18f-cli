@@ -68,11 +68,6 @@ This script is really a bundle of scripts: one main script and a bunch of subcom
 
 New scripts should be added to this repository's `bin` folder without the `18f-` prefix, as that will be added during installation. They can be written in any language, but care should be taken to choose a language that most users will have. Similarly, there is a preference for avoiding additional dependencies in new scripts.
 
-### Branch flow
-
-- Main branch: `release`
-- Development branch: `develop`
-
 ## Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
